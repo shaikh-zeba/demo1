@@ -2,5 +2,5 @@
 this is  my first git repository
 <br>
 <br>
-author  zebashaikh
+author  zebashaikh(github)
 
